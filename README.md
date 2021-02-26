@@ -5,7 +5,7 @@
 #### histories with the gaming community. And most important, developed tools to help artists to
 #### make their dreams real!!! 
 
-#Projects
+# Projects
 I'm currently developing [Trenia](https://github.com/Daniloc/Sci-Fy), a 2D Speed Running platformer inspired by [Aeon Drive](https://store.steampowered.com/app/1252240/Aeon_Drive/) where you are in the skin of Ragnarov.
 > This is an Open Project and everyone can contribute!
 
