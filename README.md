@@ -1,5 +1,6 @@
 <p align="center">
   <H2 align = "center">Hi everyone, it's Dani Here!!! 🕹</H2>  
+  <p> I'm a passionate game programmer with 2 years of experience working with Unity.</p>
 </p>
 
 <!--
