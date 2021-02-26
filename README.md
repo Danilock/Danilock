@@ -1,4 +1,4 @@
-![Image of MJ](https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif)
+<div = align "center">![Image of MJ](https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif)</div>
 <H1 align = "center">Hi Everyone, It's Dani Here!🕹🎮</h1>
 
 #### Games had a big impact in my life ❤ and that's why I decided to become a Game Programmer.
@@ -6,7 +6,7 @@
 #### histories with the gaming community. And most important, developed tools to help artists to
 #### make their dreams real!!! 
 
-<h1 align = center""> Projects</h1>
+<h1 align = "center"> Projects</h1>
 <H2 align = "center"> Trenia </H2>
 I'm currently developing [Trenia](https://github.com/Danilock/Sci-Fy), a 2D Speed Running platformer inspired by [Aeon Drive](https://store.steampowered.com/app/1252240/Aeon_Drive/) where you are in the skin of Ragnarov.
 > This is an Open Project and everyone can contribute!
