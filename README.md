@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif" alt="Girl in a jacket" width="2" height="2">
+<img src="https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif" alt="Girl in a jacket" width="50" height="50">
 
 #Hi Everyone, It's Dani Here!🕹🎮
 
