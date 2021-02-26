@@ -1,5 +1,5 @@
 <p align="center">
-  ### Hi everyone, it's Dani Here!!! 🕹  
+  <H2>Hi everyone, it's Dani Here!!! 🕹</H2>  
 </p>
 
 <!--
