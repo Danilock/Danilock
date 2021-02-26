@@ -9,7 +9,7 @@
 
 <h1 align = "center"> Projects</h1>
 <H2 align = "center"> Sci-Fy </H2>
-I'm currently developing <a href = "https://github.com/Danilock/Sci-Fy">Sci-Fy</a>, a 2D Speed Running platformer inspired by <a href = "https://store.steampowered.com/app/1252240/Aeon_Drive/"></a> where you are in the skin of Ragnarov.
+I'm currently developing , a 2D Speed Running platformer inspired by  where you are in the skin of Ragnarov.
 > This is an Open Project and everyone can contribute!
 
 
