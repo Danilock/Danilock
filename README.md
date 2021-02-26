@@ -1,5 +1,5 @@
 <p align="center">
-  <H2>Hi everyone, it's Dani Here!!! 🕹</H2>  
+  <H2 align = "center">Hi everyone, it's Dani Here!!! 🕹</H2>  
 </p>
 
 <!--
