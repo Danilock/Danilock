@@ -1,4 +1,5 @@
-# Hi Everyone, It's Dani Here!🕹🎮 ![Image of MJ](https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif)
+![Image of MJ](https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif)
+# Hi Everyone, It's Dani Here!🕹🎮
 
 #### Games had a big impact in my life ❤ and that's why I decided to become a Game Programmer.
 #### With two years of experience working with Unity, I've been capable to make games to share
