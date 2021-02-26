@@ -1,7 +1,9 @@
-<img src="https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif" alt="Girl in a jacket" width="200" height="200">
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Girl in a jacket" width="200" height="200">
+<div>
+  <img src="https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif" alt="Girl in a jacket" width="200" height="200">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Girl in a jacket" width="200" height="200">  
+</div>
 
-#Hi Everyone, It's Dani Here!🕹🎮
+# Hi Everyone, It's Dani Here!🕹🎮
 
 #### Games had a big impact in my life ❤ and that's why I decided to become a Game Programmer.
 #### With two years of experience working with Unity, I've been capable to make games to share
