@@ -1,7 +1,6 @@
-<p align="center">
-  <H2 align = "center">Hi everyone, it's Dani Here!!! 🕹</H2>  
-  <p> I'm a passionate game programmer with 2 years of experience working with Unity.</p>
-</p>
+# Hi Everyone, It's Dani Here
+
+### Games had a big impact in my life ❤ and that's why I decided to become a Game Programmer.
 
 <!--
 **Danilock/Danilock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
