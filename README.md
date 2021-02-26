@@ -1,4 +1,5 @@
-<div = align "center">![Image of MJ](https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif)</div>
+
+<img src="https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif" alt="Italian Trulli" align = "center">
 <H1 align = "center">Hi Everyone, It's Dani Here!🕹🎮</h1>
 
 #### Games had a big impact in my life ❤ and that's why I decided to become a Game Programmer.
