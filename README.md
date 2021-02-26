@@ -1,6 +1,6 @@
 
-<img src="https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif" alt="Italian Trulli" align = "center" style="width:500px;height:600px;">
-<img src="https://i.pinimg.com/originals/45/41/0c/45410c8bad7dc91c066d0612b9522aa0.gif" alt="Italian Trulli" align = "center" style="width:2px;height:2px;">
+<img src="https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif" alt="Italian Trulli" style="width:2px;height:20px;">
+<img src="https://i.pinimg.com/originals/45/41/0c/45410c8bad7dc91c066d0612b9522aa0.gif" alt="Italian Trulli" style="width:2px;height:2px;">
 <H1 align = "center">Hi Everyone, It's Dani Here!🕹🎮</h1>
 
 #### Games had a big impact in my life ❤ and that's why I decided to become a Game Programmer.
