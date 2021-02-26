@@ -12,7 +12,7 @@ I'm currently developing [Trenia](https://github.com/Danilock/Sci-Fy), a 2D Spee
 > This is an Open Project and everyone can contribute!
 
 
-##Swords
+<H2 aling = "center"> Swords </H2>
 It's other of my platformer games(**Yes, I love platformers**) where you use a Red Riding Hood as main character... beat enemies and reach the goal in this short little game.
 The development process of this game was absolutly fun. I worked on the whole gameplay and UI systems, it still **UNDER DEVELOPMENT** and eveyone can contribute!
 
