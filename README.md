@@ -21,7 +21,7 @@ I'm currently developing [Sci-Fy](https://github.com/Danilock/Sci-Fy), a 2D Spee
 
 <H2 align = "center"> Swords </H2>
 
-<P align = "center"> <img src="https://github.com/Danilock/Danilock.github.io/blob/main/images/demo/swords.gif" alt="Girl in a jacket" width="200" height="25%">  </P>
+<P align = "center"> <img src="https://github.com/Danilock/Danilock.github.io/blob/main/images/demo/swords.gif" alt="Girl in a jacket" width="200" height="40%">  </P>
 It's other of my platformer games(<b>Yes, I love platformers</b>) where you use a Red Riding Hood as main character... beat enemies and reach the goal in this                    short little game.
 The development process of this game was absolutly fun. I worked on the whole gameplay and UI systems, it still <b>UNDER DEVELOPMENT</b> and eveyone can                          contribute!.
 
