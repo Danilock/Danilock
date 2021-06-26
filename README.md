@@ -25,6 +25,11 @@ I'm currently developing [Sci-Fy](https://github.com/Danilock/Sci-Fy), a 2D Spee
 It's other of my platformer games(<b>Yes, I love platformers</b>) where you use a Red Riding Hood as main character... beat enemies and reach the goal in this                    short little game.
 The development process of this game was absolutly fun. I worked on the whole gameplay and UI systems, it still <b>UNDER DEVELOPMENT</b> and eveyone can                          contribute!.
 
+<H2 align = "center"> <a href="https://github.com/Danilock/Dost" target="_blank">Dost</a> </H2>
+
+<P align = "center"> <img src="https://github.com/Danilock/Dost/blob/main/Extras/DostDemo.gif" alt="Girl in a jacket" width="400" height="80%">  </P>
+Platformer game inspired on Celeste.
+
 # Interests
 Beside programming and videogames, I spend my time playing Soccer ⚽ and talking to cats 😺!
 <div>
