@@ -25,7 +25,12 @@ The development process of this game was absolutly fun. I worked on the whole ga
 
 # Interests
 Beside programming and videogames, I spend my time playing Soccer ⚽ and talking to cats 😺!
-
+<div>
+  <img src="https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif" alt="Girl in a jacket" width="25%" height="200">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Girl in a jacket" width="25%" height="200">  
+  <img src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" alt="Girl in a jacket" width="25%" height="200"> 
+  <img src="https://media0.giphy.com/media/sqctAhcpUOFJC/giphy.gif" alt="Girl in a jacket" width="200" height="25%"> 
+</div>
 
 <!--
 **Danilock/Danilock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
