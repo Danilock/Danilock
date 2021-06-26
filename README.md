@@ -13,13 +13,13 @@
 #### make their dreams real!!! 
 
 <H1 align = "center"> Projects </H1>
-<H2 align = "center"> Sci-Fy </H2>
+<H2 align = "center"> [Sci-Fy](https://github.com/Danilock/Sci-Fy) </H2>
 
 I'm currently developing [Sci-Fy](https://github.com/Danilock/Sci-Fy), a 2D Speed Running platformer inspired by [Aeon Drive](https://store.steampowered.com/app/1252240/Aeon_Drive/) where you are in the skin of Ragnarov.
 > This is an Open Project and everyone can contribute!
 
 
-<H2 align = "center"> Swords </H2>
+<H2 align = "center"> [Swords](https://github.com/Danilock/Swords) </H2>
 
 <P align = "center"> <img src="https://github.com/Danilock/Danilock.github.io/blob/main/images/demo/swords.gif" alt="Girl in a jacket" width="400" height="80%">  </P>
 It's other of my platformer games(<b>Yes, I love platformers</b>) where you use a Red Riding Hood as main character... beat enemies and reach the goal in this                    short little game.
