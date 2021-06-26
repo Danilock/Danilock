@@ -21,11 +21,11 @@ I'm currently developing [Sci-Fy](https://github.com/Danilock/Sci-Fy), a 2D Spee
 
 <H2 align = "center"> Swords </H2>
 <div>
-  <img style="vertical-align:middle" src="https://via.placeholder.com/60x60">
-  <span style="">Works.</span>
-</div>
-It's other of my platformer games(<b>Yes, I love platformers</b>) where you use a Red Riding Hood as main character... beat enemies and reach the goal in this short little game.
-The development process of this game was absolutly fun. I worked on the whole gameplay and UI systems, it still <b>UNDER DEVELOPMENT</b> and eveyone can contribute!
+  <img style="vertical-align:middle" src="https://github.com/Danilock/Danilock.github.io/blob/main/images/demo/swords.gif">
+  <span style="">It's other of my platformer games(<b>Yes, I love platformers</b>) where you use a Red Riding Hood as main character... beat enemies and reach the goal in this                    short little game.
+                 The development process of this game was absolutly fun. I worked on the whole gameplay and UI systems, it still <b>UNDER DEVELOPMENT</b> and eveyone can                          contribute!.
+  </span>
+ </div>
 
 # Interests
 Beside programming and videogames, I spend my time playing Soccer ⚽ and talking to cats 😺!
