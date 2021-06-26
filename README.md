@@ -7,10 +7,12 @@
 
 # Hi Everyone, It's Dani Here!🕹🎮
 
-#### Games made a big impact in my life ❤ and that's why I decided to become a Game Programmer.
-#### With two years of experience working with Unity, I've been capable to make games to share
-#### histories with the gaming community. And most important, developed tools to help artists to
-#### make their dreams real!!! 
+<h2 style = "text-align: center;">
+    Games made a big impact in my life ❤ and that's why I decided to become a Game Programmer.
+    With two years of experience working with Unity, I've been capable to make games to share
+    histories with the gaming community. And most important, developed tools to help artists to
+    make their dreams real!!! 
+</h2>
 
 <H1 align = "center"> Projects </H1>
 <H2 align = "center"> Sci-Fy </H2>
