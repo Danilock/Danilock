@@ -20,7 +20,7 @@ I'm currently developing [Sci-Fy](https://github.com/Danilock/Sci-Fy), a 2D Spee
 
 
 <H2 align = "center"> Swords </H2>
-<img src="https://media0.giphy.com/media/sqctAhcpUOFJC/giphy.gif" alt="Girl in a jacket" width="200" height="25%"> 
+<p style="text-align:center;"><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="Logo"></p>
 
 # Interests
 Beside programming and videogames, I spend my time playing Soccer ⚽ and talking to cats 😺!
