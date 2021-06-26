@@ -21,8 +21,8 @@ I'm currently developing [Sci-Fy](https://github.com/Danilock/Sci-Fy), a 2D Spee
 
 <H2 align = "center"> Swords </H2>
 <div style = "text-align: center;">
-  <img src="https://media0.giphy.com/media/sqctAhcpUOFJC/giphy.gif"  width="200" height="25%"> 
-  <H4>ff</H4>
+  <img src="https://media0.giphy.com/media/sqctAhcpUOFJC/giphy.gif"  width="200" height="25%" style = "text-align: center;"> 
+  <H4 style = "text-align: center;">ff</H4>
 </div>
 
 # Interests
