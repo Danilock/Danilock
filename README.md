@@ -33,7 +33,7 @@ Platformer game inspired on Celeste.
 # Interests
 Beside programming and videogames, I spend my time playing Soccer ⚽ and talking to cats 😺!
 <div>
-  <img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="Girl in a jacket" width="100%" height="300">
+  <img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="Girl in a jacket" width="100%" height="20%">
 </div>
 
 <!--
