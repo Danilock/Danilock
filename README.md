@@ -5,12 +5,10 @@
   <img src="https://media0.giphy.com/media/sqctAhcpUOFJC/giphy.gif" alt="Girl in a jacket" width="20%" height="25%"> 
 </div>
 
-# Hi Everyone, It's Dani Here!🕹🎮
+# Hi , I'm Daniel. I use Unity and c# everyday as if it was some sort of medicine I need.
 
-#### Games made a big impact in my life ❤ and that's why I decided to become a Game Programmer.
-#### With two years of experience working with Unity, I've been capable to make games to share
-#### histories with the gaming community. And most important, developed tools to help artists to
-#### make their dreams real!!! 
+#### Being a game programmer is one of the best decisions I've made on my life. I'm not good taking decisions tho.
+#### --------------------------------------------------------------------------
 
 <H1 align = "center"> Projects </H1>
 <H2 align = "center"> <a href="https://github.com/Danilock/Sci-Fy" target="_blank">Sci-Fy</a> </H2>
