@@ -5,7 +5,7 @@
 
 # Hi , I'm Daniel. I use Unity and c# everyday as if it was some sort of medicine I need.
 
-#### Being a game programmer is one of the best decisions I've made in my life. I'm not good taking decisions tho.
+#### Being a game programmer is one of the best decisions I've made in my life... for real.
 
 <H1 align = "center"> Projects </H1>
 <H2 align = "center"> <a href="https://github.com/Danilock/Sci-Fy" target="_blank">Sci-Fy</a> </H2>
