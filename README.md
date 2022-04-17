@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Girl in a jacket" width="25%" height="10%">  
 </div>
 
-# Hi, I'm Daniel. I'm using Unity and C# everyday like if was some sort of medicine I need.
+# Hi, I'm Daniel. I'm using Unity and C# everyday like if it was some sort of medicine I need.
 
 #### Being a game programmer is one of the best decisions I've made in my life... for real.
 
