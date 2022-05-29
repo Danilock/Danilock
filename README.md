@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif" alt="Raining" width="25%" height="10%">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Girl in a jacket" width="25%" height="10%">  
+  <img src="https://i.pinimg.com/originals/12/56/dc/1256dc5c6d5894033965868683513da2.gif" alt="Raining">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Girl in a jacket">  
 </div>
 
 # Hi, I'm Daniel. I'm using Unity and C# everyday like if it is some sort of pill I need.
