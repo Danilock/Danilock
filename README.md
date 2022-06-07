@@ -20,8 +20,6 @@
 It's other of our platformer games(<b>Yes, We love platformers</b>) where you use a Red Riding Hood as main character... beat enemies and reach the goal in this                    short little game.
 The development process of this game was absolutly fun.
 
-<H2 align = "center"> <a href="https://github.com/Danilock/Dost" target="_blank">Dost</a> </H2>
-
 # Interests
 Beside programming and videogames, I spend my time playing Soccer ⚽ and talking to cats 😺!
 <div>
