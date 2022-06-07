@@ -22,9 +22,6 @@ The development process of this game was absolutly fun.
 
 <H2 align = "center"> <a href="https://github.com/Danilock/Dost" target="_blank">Dost</a> </H2>
 
-<P align = "center"> <img src="https://github.com/Danilock/Dost/blob/main/Extras/DostDemo.gif" alt="Girl in a jacket" width="400" height="80%">  </P>
-Platformer game inspired on Celeste.
-
 # Interests
 Beside programming and videogames, I spend my time playing Soccer ⚽ and talking to cats 😺!
 <div>
