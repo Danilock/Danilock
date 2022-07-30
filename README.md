@@ -8,9 +8,9 @@
 #### Being a game programmer is one of the best decisions I've made in my life... for real.
 
 <H1 align = "center"> Projects </H1>
-<H2 align = "center"> <a href="https://github.com/Danilock/Sci-Fy" target="_blank">Sci-Fy</a> </H2>
+<H2 align = "center"> <a href="https://github.com/Danilock/Project-Scarlata" target="_blank">Project-Scarlata</a> </H2>
 
-[Sci-Fy](https://github.com/Danilock/Sci-Fy), a 2D Speed Running platformer inspired by [Aeon Drive](https://store.steampowered.com/app/1252240/Aeon_Drive/) where you are in the skin of Ragnarov.
+[Sci-Fy](https://github.com/Danilock/Sci-Fy), is a 2D platformer inspired on Celeste being made with Unity.
 > This is an Open Project and everyone can contribute!
 
 
