@@ -11,8 +11,7 @@
 <H2 align = "center"> <a href="https://github.com/Danilock/Project-Scarlata" target="_blank">Project-Scarlata</a> </H2>
 
 <P align = "center"> <img src="https://github.com/Danilock/Project-Scarlata/blob/main/Misc/AI-Bubble-Test.gif" alt="Girl in a jacket" width="400" height="80%">  </P>
-is a 2D platformer inspired on Celeste being made with Unity.
-> This is an Open Project and everyone can contribute!
+Is a 2D platformer inspired on Celeste being made with Unity.
 
 
 <H2 align = "center"> <a href="https://github.com/Danilock/Swords" target="_blank">Swords</a> </H2>
