@@ -11,7 +11,7 @@
 <H2 align = "center"> <a href="https://github.com/Danilock/Project-Scarlata" target="_blank">Project-Scarlata</a> </H2>
 
 <P align = "center"> <img src="https://github.com/Danilock/Project-Scarlata/blob/main/Misc/AI-Bubble-Test.gif" alt="Girl in a jacket" width="400" height="80%">  </P>
-[Sci-Fy](https://github.com/Danilock/Sci-Fy), is a 2D platformer inspired on Celeste being made with Unity.
+is a 2D platformer inspired on Celeste being made with Unity.
 > This is an Open Project and everyone can contribute!
 
 
