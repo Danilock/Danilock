@@ -5,7 +5,7 @@
 
 # Hi, I'm Daniel! Hope you have a fun time looking to my inner coding side!
 
-#### Being a game programmer is one of the best decisions I've made in my life... for real.
+#### Being a game programmer is the biggest decision I've made in my life. Sometimes I love it, sometimes I regret it...
 
 <H1 align = "center"> Projects </H1>
 <H2 align = "center"> <a href="https://github.com/Danilock/Project-Scarlata" target="_blank">Project-Scarlata</a> </H2>
